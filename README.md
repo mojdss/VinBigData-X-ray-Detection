@@ -6,11 +6,11 @@ Here's a **Markdown (`.md`)** file template for your project titled **"VinBigDat
 
 ## 🧠 Project Overview
 
-This project focuses on building an **object detection model** to identify and localize abnormalities in chest X-ray images using the **VinBigData Chest X-ray Dataset**. The goal is to detect various medical conditions such as fractures, nodules, masses, etc., by leveraging deep learning techniques like **YOLOv7** or similar object detection frameworks.
+This project focuses on building an **object detection model** to identify and localize abnormalities in chest X-ray images using the **VinBigData Chest X-ray Dataset**. The goal is to detect various medical conditions such as fractures, nodules, masses, etc., by leveraging deep learning techniques like **YOLOv11** or similar object detection frameworks.
 
 The project includes:
 - Data preprocessing and augmentation.
-- Training an object detection model (e.g., YOLOv7).
+- Training an object detection model (e.g., YOLOv11).
 - Evaluating performance using metrics like **mAP**, **F1-score**, and **confusion matrix**.
 - Visualizing predictions and comparing them with ground truth labels.
 
@@ -21,7 +21,7 @@ This system can assist radiologists in speeding up diagnosis and improving accur
 ## 🎯 Objectives
 
 1. **Data Preparation**: Clean and preprocess the VinBigData dataset.
-2. **Model Training**: Train a state-of-the-art object detection model (e.g., YOLOv7) on the dataset.
+2. **Model Training**: Train a state-of-the-art object detection model (e.g., YOLOv11) on the dataset.
 3. **Evaluation**: Assess model performance using metrics like mAP, F1-score, and confusion matrix.
 4. **Visualization**: Display predicted bounding boxes and compare them with ground truth annotations.
 5. **Deployment**: Provide a demo interface or API for inference on new X-ray images.
